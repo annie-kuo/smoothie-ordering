@@ -1,5 +1,5 @@
 # smoothie-ordering
-Program that displays a menu of smoothies, takes orders and displays the receipt.
+This program displays a menu of smoothies, takes orders and displays the receipt.
 
 ## Features
 - Displays a menu of smoothies.
